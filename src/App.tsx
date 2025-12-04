@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       {!showGame ? (<>
-        <div className="bg-[url(bg3.jfif)] bg-cover bg-center w-screen h-screen top-0 left-0 fixed z-0 blur-3xl" ></div>
+        <div className="bg-[url(bg3.jpg)] bg-cover bg-center w-screen h-screen top-0 left-0 fixed z-0 blur-3xl" ></div>
         <div className="fixed top-0 left-0    w-full px-3 flex justify-between items-center z-20 " >
           <h2 className="text-3xl font-semibold  text-white">
             EL <samp className='text-sky-500'>9</samp>imma
