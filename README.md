@@ -72,3 +72,5 @@ export default defineConfig([
 ])
 ```
 "# projet-prinspal" 
+"# projet-principale" 
+"# principale" 
